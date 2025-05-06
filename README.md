@@ -48,7 +48,6 @@ Welcome to my GitHub! I'm a dedicated Mobile Applications Developer with a stron
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shafiqrrehman/)
 - 🧑‍💻 [GitHub](https://github.com/rehmanshafiq)
 - 💡 [Stack Overflow](https://stackoverflow.com/users/12313041/shafiq-ur-rehman)
-
 ---
 
 ## 💼 Featured Projects
