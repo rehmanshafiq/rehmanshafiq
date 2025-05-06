@@ -1,60 +1,71 @@
 # 👋 Hello, I'm Shafiq ur Rehman
 
-Welcome to my GitHub profile! I'm a passionate Mobile Applications Developer specializing in both native and cross-platform solutions. With a strong foundation in Android (Kotlin, Jetpack Compose) and Flutter, I craft seamless and efficient mobile experiences that resonate with users.
+Welcome to my GitHub! I'm a dedicated Mobile Applications Developer with a strong background in both native Android (Kotlin, Jetpack Compose) and cross-platform Flutter development. I build scalable, performant, and user-friendly mobile apps that solve real-world problems.
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💼 About Me
 
-- 🎯 **Current Role:** Application Senior Engineer at NextGenI
-- 📍 **Location:** Karachi, Pakistan
-- 🛠️ **Expertise:** Android Development, Flutter, Kotlin, Jetpack Compose
-- 🌐 **LinkedIn:** [shafiqrrehman](https://www.linkedin.com/in/shafiqrrehman/)
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages:** Kotlin, Dart, Java
-- **Frameworks & Libraries:** Jetpack Compose, Flutter, Android Jetpack Libraries
-- **Architectures:** MVVM, Clean Architecture
-- **Tools & Platforms:** Android Studio, Firebase, Git, GitHub Actions, Bitrise
-- **Testing:** JUnit, Espresso, Mockito
-- **CI/CD:** GitHub Actions, Bitrise
+- 👨‍💻 **Current Role:** Application Senior Engineer at NextGenI
+- 🏙️ **Location:** Karachi, Pakistan
+- 💬 **Expertise:** Android (Kotlin, Jetpack Compose), Flutter (Dart), Mobile App Architecture
+- 🧑‍🏫 **Mentorship:** Actively mentoring junior developers through structured programs at NextGenI
+- 🌐 **LinkedIn:** [linkedin.com/in/shafiqrrehman](https://www.linkedin.com/in/shafiqrrehman/)
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Tech Stack
 
-![Shafiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehmanshafiq&show_icons=true&theme=radical)
+### Programming Languages  
+`Kotlin` `Dart` `Java`
 
----
+### Mobile Frameworks  
+`Jetpack Compose` `Flutter` `Android SDK`
 
-## 📫 Connect with Me
+### Tools & Services  
+`Android Studio` `Firebase` `Git` `GitHub Actions` `Bitrise`
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me:
-
-- [LinkedIn](https://www.linkedin.com/in/shafiqrrehman/)
-- [GitHub](https://github.com/rehmanshafiq)
-
----
-
-## 📝 Latest Projects
-
-Here are some of the projects I've been working on:
-
-- [Project Name](https://github.com/rehmanshafiq/project-name): Brief description of the project.
-- [Another Project](https://github.com/rehmanshafiq/another-project): Brief description of this project.
-
-*Feel free to explore my repositories to see more of my work.*
+### Architecture & Testing  
+`MVVM` `Clean Architecture` `JUnit` `Espresso` `Mockito`
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
-- Recognized as a mentor at NextGenI, contributing to the growth and development of junior engineers.
-- Successfully led the development of multiple high-impact mobile applications, enhancing user engagement and satisfaction.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehmanshafiq&show_icons=true&theme=radical)
 
 ---
 
-Thank you for visiting my profile!
+## 🧠 Knowledge Sharing
+
+- 📚 **Stack Overflow:** [shafiq-ur-rehman](https://stackoverflow.com/users/12313041/shafiq-ur-rehman)  
+  Actively contributing to the developer community with answers and guidance.
+
+---
+
+## 🔗 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shafiqrrehman/)
+- 🧑‍💻 [GitHub](https://github.com/rehmanshafiq)
+- 💡 [Stack Overflow](https://stackoverflow.com/users/12313041/shafiq-ur-rehman)
+
+---
+
+## 💼 Featured Projects
+
+- [ToDoListCompose](https://github.com/rehmanshafiq/ToDoListCompose) – A modern Jetpack Compose to-do app with state management and clean architecture.
+- [FlutterEcommerceUI](https://github.com/rehmanshafiq/FlutterEcommerceUI) – A responsive e-commerce product listing UI built in Flutter with pagination.
+
+(*More projects on the way—stay tuned!*)
+
+---
+
+## 🏅 Highlights
+
+- 🚀 Contributed to the launch of a complex medical alert solution in North America
+- 🧑‍🎓 Alumni mentor at NextGenI’s Parwaaz Young Talent Development Program
+- 🧪 Advocate for test-driven and maintainable mobile development
+
+---
+
+Thank you for stopping by! Let's build something amazing together.
