@@ -1,70 +1,85 @@
-# 👋 Hello, I'm Shafiq ur Rehman
+# 👋 Hi, I'm Shafiq ur Rehman
 
-Welcome to my GitHub! I'm a dedicated Mobile Applications Developer with a strong background in both native Android (Kotlin, Jetpack Compose) and cross-platform Flutter development. I build scalable, performant, and user-friendly mobile apps that solve real-world problems.
+**Application Senior Engineer · Android & Flutter Developer · Mentor**  
+📍 Karachi, Pakistan &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/shafiqrrehman/) &nbsp;|&nbsp; 💡 [Stack Overflow](https://stackoverflow.com/users/12313041/shafiq-ur-rehman)
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 👨‍💻 **Current Role:** Application Senior Engineer at NextGenI
-- 🏙️ **Location:** Karachi, Pakistan
-- 💬 **Expertise:** Android (Kotlin, Jetpack Compose), Flutter (Dart), Mobile App Architecture
-- 🧑‍🏫 **Mentorship:** Actively mentoring junior developers through structured programs at NextGenI
-- 🌐 **LinkedIn:** [linkedin.com/in/shafiqrrehman](https://www.linkedin.com/in/shafiqrrehman/)
+I'm a senior mobile engineer with hands-on experience building production-grade apps for both **Android** and **cross-platform** audiences. My work spans native Android with Kotlin & Jetpack Compose and cross-platform Flutter applications — several of which are **live on the Google Play Store and Apple App Store**.
+
+At **NextGenI**, I lead feature development on a complex medical alert solution deployed across North America, while also mentoring the next generation of mobile developers through the **Parwaaz Young Talent Development Program**.
+
+I care deeply about **clean architecture**, **testability**, and shipping apps users actually enjoy using.
 
 ---
 
 ## 🚀 Tech Stack
 
-### Programming Languages  
-`Kotlin` `Dart` `Java`
+### 📱 Flutter & Dart
+| Area | Tools & Patterns |
+|------|-----------------|
+| State Management | BLoC · Provider · Riverpod |
+| UI & Animations | Custom Painters · Hero/Page Transitions · Implicit & Explicit Animations · Lottie |
+| Networking | REST APIs · Dio · Retrofit · JSON Serialization |
+| Backend & Storage | Firebase (Auth, Firestore, FCM, Remote Config) · Hive · SharedPreferences |
+| Architecture | Clean Architecture · Repository Pattern · Feature-First Structure |
 
-### Mobile Frameworks  
-`Jetpack Compose` `Flutter` `Android SDK`
+### 🤖 Android (Native)
+| Area | Tools & Patterns |
+|------|-----------------|
+| Languages | Kotlin · Java |
+| UI | Jetpack Compose · XML Layouts · Material 3 |
+| Architecture | MVVM · Clean Architecture · ViewModel · LiveData · StateFlow |
+| Async | Coroutines · Flow |
+| Dependency Injection | Hilt · Koin |
 
-### Tools & Services  
-`Android Studio` `Firebase` `Git` `GitHub Actions` `Bitrise`
+### 🛠️ Tools & DevOps
+`Android Studio` · `VS Code` · `Firebase` · `Git` · `GitHub Actions` · `Bitrise` · `Fastlane`
 
-### Architecture & Testing  
-`MVVM` `Clean Architecture` `JUnit` `Espresso` `Mockito`
+### 🧪 Testing
+`JUnit` · `Espresso` · `Mockito` · `Flutter Test` · `Bloc Test`
+
+---
+
+## 📦 Featured Projects
+
+### Flutter
+- **[FlutterEcommerceUI](https://github.com/rehmanshafiq/FlutterEcommerceUI)** — Responsive e-commerce product listing UI with pagination, BLoC state management, and smooth custom animations. *(Flutter · Dart · BLoC)*
+
+### Android
+- **[ToDoListCompose](https://github.com/rehmanshafiq/ToDoListCompose)** — A modern to-do app built with Jetpack Compose, demonstrating clean architecture and reactive state management. *(Kotlin · Compose · MVVM)*
+
+> 🚀 *More projects on the way — stay tuned!*
+
+---
+
+## 🏅 Highlights
+
+- 📲 **Shipped live mobile apps** available on the Google Play Store & Apple App Store
+- 🏥 **Contributed to the launch** of a complex medical alert solution across North America
+- 🧑‍🎓 **Alumni mentor** at NextGenI's Parwaaz Young Talent Development Program
+- 🧪 **Advocate** for test-driven development and maintainable mobile architecture
+- 💬 **Active contributor** on Stack Overflow — helping developers debug and grow
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehmanshafiq&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanshafiq&layout=compact&theme=radical)
 
 ---
 
-## 🧠 Knowledge Sharing
+## 🤝 Let's Connect
 
-- 📚 **Stack Overflow:** [shafiq-ur-rehman](https://stackoverflow.com/users/12313041/shafiq-ur-rehman)  
-  Actively contributing to the developer community with answers and guidance.
-
----
-
-## 🔗 Let's Connect
+Whether you're looking to collaborate, need a mentor, or just want to talk mobile dev — I'm always open to a conversation.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shafiqrrehman/)
 - 🧑‍💻 [GitHub](https://github.com/rehmanshafiq)
 - 💡 [Stack Overflow](https://stackoverflow.com/users/12313041/shafiq-ur-rehman)
----
-
-## 💼 Featured Projects
-
-- [ToDoListCompose](https://github.com/rehmanshafiq/ToDoListCompose) – A modern Jetpack Compose to-do app with state management and clean architecture.
-- [FlutterEcommerceUI](https://github.com/rehmanshafiq/FlutterEcommerceUI) – A responsive e-commerce product listing UI built in Flutter with pagination.
-
-(*More projects on the way—stay tuned!*)
 
 ---
 
-## 🏅 Highlights
-
-- 🚀 Contributed to the launch of a complex medical alert solution in North America
-- 🧑‍🎓 Alumni mentor at NextGenI’s Parwaaz Young Talent Development Program
-- 🧪 Advocate for test-driven and maintainable mobile development
-
----
-
-Thank you for stopping by! Let's build something amazing together.
+*"Great apps aren't just built — they're architected, tested, and crafted with intention."*
